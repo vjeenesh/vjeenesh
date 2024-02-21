@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vjeenesh
-- 👀 I’m interested in Data Science and Machine learning
-- 🌱 I’m currently learning Deep Learning and Neural Networks
-- 💞️ I’m looking to collaborate on Machine learning and AI projects
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning React and NextJS
+- 💞️ I’m looking to collaborate on MERN Projects
 - 📫 How to reach me vjeenesh@gmail.com
 
 <!---

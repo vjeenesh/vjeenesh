@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jinesh</h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working as Data Analyst at
-[Media.net](https://www.media.net/). - 🌱 I’m currently learning **NextJs** - 👨‍💻
-All of my projects are available at
-[here](https://github.com/vjeenesh?tab=repositories) - 💬 Ask me about **React,
-Node.js and JavaScript** - 📫 How to reach me
-**[here](mailto:vjeenesh@gmail.com)** - 📄 Know about my experiences
-[here](https://drive.google.com/file/d/1YKYBMQ0nBK8nNMsbqcZ3obzTySZzW78B) - ⚡
-Fun fact **I am an F1 enthusiast!**
+- 🔭 I’m currently working as Data Analyst at [Media.net](https://www.media.net/). 
+- 🌱 I’m currently learning **NextJs** 
+- 👨‍💻All of my projects are available at [here](https://github.com/vjeenesh?tab=repositories) 
+- 💬 Ask me about **React, Node.js and JavaScript** 
+- 📫 How to reach me **[here](mailto:vjeenesh@gmail.com)** 
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1YKYBMQ0nBK8nNMsbqcZ3obzTySZzW78B) 
+- ⚡Fun fact **I am an F1 enthusiast!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">

@@ -12,17 +12,17 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <br />
-  <a href="https://x.com/JineshVaan"
+  <a target="_blank" href="https://x.com/JineshVaan"
     ><img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
       alt="Twitter" /></a
   >&nbsp;
-  <a href="https://www.linkedin.com/in/jinesh-van/"
+  <a target="_blank" href="https://www.linkedin.com/in/jinesh-van/"
     ><img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn" /></a
   >&nbsp;
-  <a href="mailto:vjeenesh@gmail.com?subject=Hola%20Jinesh"
+  <a target="_blank" href="mailto:vjeenesh@gmail.com?subject=Hola%20Jinesh"
     ><img
       src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail" /></a
@@ -35,26 +35,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
       width="40"
       height="40"
     />

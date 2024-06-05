@@ -6,7 +6,7 @@
 - 👨‍💻All of my projects are available at [here](https://github.com/vjeenesh?tab=repositories) 
 - 💬 Ask me about **React, Node.js and JavaScript** 
 - 📫 How to reach me **[here](mailto:vjeenesh@gmail.com)** 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1YKYBMQ0nBK8nNMsbqcZ3obzTySZzW78B) 
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1nlPHz7aPtdZgYoHY1Ay8XV3BgCkVJQ3v/view?usp=drivesdk) 
 - ⚡Fun fact **I am an F1 enthusiast!**
 
 <h3 align="left">Connect with me:</h3>

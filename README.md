@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as Data Analyst at [Media.net](https://www.media.net/). 
 - 🌱 I’m currently learning **NextJs** 
 - 👨‍💻All of my projects are available at [here](https://github.com/vjeenesh?tab=repositories) 
-- 💬 Ask me about **React, Node.js and JavaScript** 
+- 💬 Ask me about **React, Node.js, NextJs and JavaScript** 
 - 📫 How to reach me **[here](mailto:vjeenesh@gmail.com)** 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1nlPHz7aPtdZgYoHY1Ay8XV3BgCkVJQ3v/view?usp=drivesdk) 
 - ⚡Fun fact **I am an F1 enthusiast!**

@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jinesh</h1>
+<h1 align="center">Hi 👋, I'm [Jinesh](https://jinesh-van.vercel.app)</h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working as an Analyst at [Media.net](https://www.media.net/). 
+- 🔭 I’m currently working as a Senior Software Engineer at Vervelo and have worked previously at Media.net. 
 - 🌱 I’m currently learning **NextJs** 
 - 👨‍💻All of my projects are available at [here](https://github.com/vjeenesh?tab=repositories) 
 - 💬 Ask me about **React, Node.js, NextJs and JavaScript** 

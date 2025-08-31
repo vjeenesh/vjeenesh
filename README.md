@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://jinesh-van.vercel.app" target="_blank">Jinesh</a></h1>
+<h1 align="center">Hi 👋, I'm <a target="_blank" href="https://jinesh-van.vercel.app">Jinesh</a></h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
 
 - 🔭 I’m currently working as a Senior Software Engineer at Vervelo and have worked previously at Media.net. 
